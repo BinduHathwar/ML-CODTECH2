@@ -24,13 +24,13 @@ testing.
 
 ### Key Activities
 - **Data Loading and Cleaning**: Loaded dataset and checked for missing values.
-- 
+  
 - **Text Preprocessing**: Converted text to lowercase, removed stopwords, and optionally applied lemmatization or stemming.
-- 
+  
 - **Feature Extraction**: Transformed text into numerical features using the TF-IDF Vectorizer.
-- 
+  
 - **Model Training**: Trained a Logistic Regression model on TF-IDF features with sentiment as the target.
-- 
+  
 - **Evaluation**: Assessed model performance using accuracy, precision, recall, and F1-score metrics.
 
 
